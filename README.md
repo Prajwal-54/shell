@@ -1,5 +1,9 @@
 # shell
 bash like shell using node.js , starts with default working directory set to user's home directory
+
+> node shell.js   --> to start shell
+
+
 ## in this shell following commands work :
 
 1) cd <directory_name> - Should work same as bash shell.
